@@ -1,0 +1,23 @@
+
+{
+  "name": "stackblitz-starters-lqg788",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@faker-js/faker": "^8.3.1",
+    "chart.js": "4.4.1",
+    "react": "18.2.0",
+    "react-chartjs-2": "5.2.0",
+    "react-dom": "18.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts":"latest"
+  }
+}
+
